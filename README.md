@@ -1,6 +1,8 @@
 # 龙文章
 
-> 炮灰团团长
+> 炮灰团团长 <我的团长我的团>
+
+![](https://bkimg.cdn.bcebos.com/pic/0823dd54564e9258510b97fb9c82d158ccbf4ee3?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto)
 
 - 使用方式
 
