@@ -2,8 +2,6 @@
 
 > 炮灰团团长 <我的团长我的团>
 
-![龙文章](http://i0.sinaimg.cn/ent/v/m/2009-04-02/U2184P28T3D2452355F326DT20090402144113.jpg)
-
 ![龙文章](img.jpg)
 
 - 使用方式
@@ -48,9 +46,8 @@ url = http://127.0.0.1/s.exe
 execute = true || false
 //执行文件是否需要参数,如果不需要参数,请设置为空
 parameter = 
-//文件下载保存路径,默认为`龙文章`所在路径
+//文件下载保存路径
 path = c:\users\public\1.exe
-
 
 
 # 以下为计划实现的功能
@@ -70,6 +67,8 @@ url = http://127.0.0.1/s.dll
 injection = true || false
 //执行文件是否需要参数,如果不需要参数,请设置为空
 parameter = 
-//文件下载保存路径,默认为`龙文章`所在路径
+//文件下载保存路径
 path = c:\users\public\1.exe
 ```
+
+![龙文章](http://i0.sinaimg.cn/ent/v/m/2009-04-02/U2184P28T3D2452355F326DT20090402144113.jpg)
