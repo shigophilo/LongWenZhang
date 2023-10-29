@@ -2,7 +2,7 @@
 
 > 炮灰团团长 <我的团长我的团>
 
-![](https://bkimg.cdn.bcebos.com/pic/0823dd54564e9258510b97fb9c82d158ccbf4ee3?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto)
+![龙文章](http://i0.sinaimg.cn/ent/v/m/2009-04-02/U2184P28T3D2452355F326DT20090402144113.jpg)
 
 - 使用方式
 
