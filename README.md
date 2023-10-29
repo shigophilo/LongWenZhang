@@ -45,7 +45,7 @@ execute = true || false
 //执行文件是否需要参数,如果不需要参数,请设置为空
 parameter = 
 //文件下载保存路径,默认为`龙文章`所在路径
-path = c:/users/public/1.exe
+path = c:\users\public\1.exe
 
 
 
@@ -67,5 +67,5 @@ injection = true || false
 //执行文件是否需要参数,如果不需要参数,请设置为空
 parameter = 
 //文件下载保存路径,默认为`龙文章`所在路径
-path = c:/users/public/1.exe
+path = c:\users\public\1.exe
 ```
